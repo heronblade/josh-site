@@ -8,3 +8,5 @@
 3. Building tests for the js because you're 'supposed' to
 
 4. Also sass, and anything else cool I'd like to check out
+
+5. Also also es2015 because let
